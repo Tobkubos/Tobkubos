@@ -84,6 +84,8 @@
 
 ###
 
+Hello there!
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tobkubos/Tobkubos/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tobkubos/Tobkubos/output/github-snake.svg" />
