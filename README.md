@@ -1,7 +1,7 @@
 <h1 align="center">Hi! Toby's here and I'm a Computer Science Student from Poland!</h1>
 
 ###
-<h1 align="center">Some cool statistics</h1>
+<h2 align="left">Some cool statistics</h2>
 <div align="center">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tobkubos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=tobkubos&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
@@ -9,7 +9,7 @@
 </div>
 
 ###
-<h1 align="center">Recently using:</h1>
+<h2 align="left">Recently using:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="25" />
@@ -33,7 +33,7 @@
   <img width="25" />
 </div>
 
-<h1 align="center">Knows also:</h1>
+<h2 align="left">Knows also:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="25" />
@@ -65,7 +65,7 @@
 </div>
 
 ###
-<h1 align="center">My Socials:</h1>
+<h2 align="left">My Socials:</h2>
 <br clear="both">
 <div align="center">
   <a href="https://www.linkedin.com/in/tobiasz-kubiak-6905ba331/" target="_blank">
@@ -80,8 +80,6 @@
 </div>
 
 ###
-
-<h1 align="center">Cool snake huh?</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tobkubos/Tobkubos/output/github-snake-dark.svg" />
