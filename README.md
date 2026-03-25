@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Toby's here and I'm a Computer Science Student from Poland!</h1>
+<h1 align="center">Hi! Toby's here and I'm a Computer Science Engineer from Poland!</h1>
 
 ###
 <h2 align="left">Some cool statistics</h2>
